@@ -1,0 +1,54 @@
+﻿body {
+    background-color: gray;
+}
+
+#wrapper {
+    margin: 10px;
+    background-color: gray;
+}
+
+header {
+    width: auto;
+    height: 200px;
+    margin-bottom: 5px;
+    background-color: #e20b0b;
+}
+
+article {
+    width: 1200px;
+    min-width: 300px;
+    min-height: 200px;
+    background-color: #e20b0b;
+    float: left;
+   
+}
+
+#mainaside {
+    float: left;
+    background-color: #e20b0b;
+    width: 250px;
+    height: 200px;
+    margin-left: 50px;
+    margin-bottom: 5px;
+
+    
+}
+
+footer {
+    background-color: aquamarine;
+    clear:both;
+    height: 200px;
+    margin-bottom: 5px;
+}
+
+#buttomaside {
+    
+}
+
+figure {
+    width: 367px;
+    height: 400px;
+    background-color:brown;
+    float: left;
+    margin: 5px;
+}
